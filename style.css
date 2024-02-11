@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(191, 191, 245);
+    background-color: linear-gradient(to bottom,#512d38, #b27092, #f4bfdb );
+    background-attachment: fixed;
     text-align: center;
 }
 
