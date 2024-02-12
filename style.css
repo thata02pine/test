@@ -4,6 +4,10 @@ body {
     background-color: linear-gradient(to bottom,#512d38, #b27092, #f4bfdb );
     background-attachment: fixed;
     text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 
 picture { 
